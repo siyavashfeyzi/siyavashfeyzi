@@ -5,7 +5,7 @@ I'm Siyavash Feyzi, a junior Django developer with a passion for programming and
 
 ## Skills
 - **Programming Languages**: Python, PL/SQL, SQL
-- **Databases**: Oracle SQL, PostgreSQL, MongoDB
+- **Databases**: PostgreSQL, MongoDB, MySQL
 - **Web Development**: Django, HTML, CSS, Bootstrap, jQuery
 - **Data Structures and Algorithms**: Constantly improving my problem-solving skills
 - **Tools**: Redis for caching and more
