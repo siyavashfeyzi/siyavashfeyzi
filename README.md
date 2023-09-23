@@ -4,7 +4,7 @@
 I'm Siyavash Feyzi, a junior Django developer with a passion for programming and a drive to become a senior Django developer and AI expert. I enjoy working with a variety of technologies, and I'm always eager to learn and improve.
 
 ## Skills
-- **Programming Languages**: Python, PL/SQL, SQL
+- **Programming Languages**: Python, SQL
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Web Development**: Django, HTML, CSS, Bootstrap, jQuery
 - **Data Structures and Algorithms**: Constantly improving my problem-solving skills
