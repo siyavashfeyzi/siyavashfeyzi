@@ -14,7 +14,6 @@ I'm Siyavash Feyzi, a junior Django developer with a passion for programming and
 - **To-Do List Web App**
   - Description: A web-based to-do list application built with Django.
   - Repository: [Link](https://github.com/siyavashfeyzi/To-Do-list)
-
 - **Personal Blog Web App**
   - Description: A web-based Personal Blog application built with Django.
   - Repository: [Link](https://github.com/siyavashfeyzi/Personal-Blog)
